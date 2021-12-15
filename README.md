@@ -8,7 +8,7 @@ This game uses
 
 Todo:
 
-- [ ] Integration of particle trajectories with prescribed flow fields (Greg, see)
+- [ ] Integration of particle trajectories with prescribed flow fields (Greg, see https://github.com/glwagner/UnknownFlows.jl/blob/main/kolmogorov/kolmogorov_particles.jl)
 - [ ] Particle trajectories in complex domains / with immersed boundaries (Greg)
 - [ ] Obtain realistic ocean circulation on a staggered C-grid
 - [ ] Prescribe "cyclic" / seasonally varying surface circulation in Oceanagnians via `PrescribedVelocityFields`
