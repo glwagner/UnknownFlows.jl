@@ -4,7 +4,7 @@ We're making a game where players guess the ultimate location of trash, plastic,
 This game uses
 
 - [Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl)
-- [Makie.jl](https://github.com/JuliaPlots/Makie.jl)
+- [Makie.jl](https://github.com/JuliaPlots/Makie.jl) (perhaps hosting via `WGLMakie.jl`)
 
 Todo:
 
